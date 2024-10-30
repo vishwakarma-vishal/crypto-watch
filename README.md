@@ -1,5 +1,7 @@
 # CryptoWatch: A Real-Time Cryptocurrency Price Tracker
 
+![image](https://github.com/user-attachments/assets/9e7b48dd-b3fe-44f1-a26d-fb5d314c38aa)
+
 ## Overview
 CryptoWatch is a web application designed to provide users with up-to-date information on popular cryptocurrencies. It leverages React.js and Web APIs to fetch and display real-time price data, enabling users to make informed decisions in the cryptocurrency market.
 
